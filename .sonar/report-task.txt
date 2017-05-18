@@ -1,0 +1,5 @@
+projectKey=produtos
+serverUrl=http://localhost:9000/sonar
+dashboardUrl=http://localhost:9000/sonar/dashboard/index/produtos
+ceTaskId=AVwcylSA_2qPjlFNS--B
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AVwcylSA_2qPjlFNS--B

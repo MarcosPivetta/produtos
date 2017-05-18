@@ -1,0 +1,1 @@
+$src/br/com/caelum/produtos/hibernate :

@@ -1,0 +1,155 @@
+Environment variables:
+  - CLUTTER_IM_MODULE=xim
+  - COLORTERM=truecolor
+  - COMPIZ_BIN_PATH=/usr/bin/
+  - COMPIZ_CONFIG_PROFILE=ubuntu
+  - DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+  - DEFAULTS_PATH=/usr/share/gconf/ubuntu.default.path
+  - DERBY_HOME=/usr/lib/jvm/java-8-oracle/db
+  - DESKTOP_SESSION=ubuntu
+  - DISPLAY=:0
+  - GDMSESSION=ubuntu
+  - GDM_LANG=pt_BR
+  - GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+  - GNOME_SESSION_XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+  - GTK2_MODULES=overlay-scrollbar
+  - GTK_IM_MODULE=ibus
+  - GTK_MODULES=gail:atk-bridge:unity-gtk-module
+  - HOME=/home/pivetta
+  - IM_CONFIG_PHASE=1
+  - INVOCATION_ID=1042078fc6af4f59b2a1914a8981b7ae
+  - J2REDIR=/usr/lib/jvm/java-8-oracle/jre
+  - J2SDKDIR=/usr/lib/jvm/java-8-oracle
+  - JAVA_HOME=/usr/lib/jvm/java-8-oracle
+  - JOURNAL_STREAM=8:31400
+  - LANG=pt_BR.UTF-8
+  - LANGUAGE=pt_BR:pt:pt_PT:en
+  - LC_ADDRESS=pt_BR.UTF-8
+  - LC_IDENTIFICATION=pt_BR.UTF-8
+  - LC_MEASUREMENT=pt_BR.UTF-8
+  - LC_MONETARY=pt_BR.UTF-8
+  - LC_NAME=pt_BR.UTF-8
+  - LC_NUMERIC=pt_BR.UTF-8
+  - LC_PAPER=pt_BR.UTF-8
+  - LC_TELEPHONE=pt_BR.UTF-8
+  - LC_TIME=pt_BR.UTF-8
+  - LESSCLOSE=/usr/bin/lesspipe %s %s
+  - LESSOPEN=| /usr/bin/lesspipe %s
+  - LOGNAME=pivetta
+  - LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+  - MANAGERPID=1635
+  - MANDATORY_PATH=/usr/share/gconf/ubuntu.mandatory.path
+  - NLSPATH=/usr/dt/lib/nls/msg/%L/%N.cat
+  - OLDPWD=/home/pivetta/arquitetura
+  - PATH=/home/pivetta/bin:/home/pivetta/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/opt/sonar-runner/bin
+  - PWD=/home/pivetta/arquitetura/produtos
+  - QT4_IM_MODULE=xim
+  - QT_ACCESSIBILITY=1
+  - QT_IM_MODULE=ibus
+  - QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+  - SESSION_MANAGER=local/spoarq02:@/tmp/.ICE-unix/1971,unix/spoarq02:/tmp/.ICE-unix/1971
+  - SHELL=/bin/bash
+  - SHLVL=2
+  - SSH_AGENT_LAUNCHER=gnome-keyring
+  - SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+  - TERM=xterm-256color
+  - USER=pivetta
+  - VTE_VERSION=4402
+  - WINDOWID=56623110
+  - XAUTHORITY=/home/pivetta/.Xauthority
+  - XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+  - XDG_CURRENT_DESKTOP=Unity:Unity7
+  - XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+  - XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/pivetta
+  - XDG_MENU_PREFIX=gnome-
+  - XDG_RUNTIME_DIR=/run/user/1000
+  - XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+  - XDG_SESSION_DESKTOP=ubuntu
+  - XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+  - XDG_SESSION_TYPE=x11
+  - XFILESEARCHPATH=/usr/dt/app-defaults/%L/Dt
+  - XMODIFIERS=@im=ibus
+  - _=/opt/sonar-runner/bin/sonar-runner
+System properties:
+  - ROOT_LOGGER_LEVEL=DEBUG
+  - awt.toolkit=sun.awt.X11.XToolkit
+  - file.encoding=UTF-8
+  - file.encoding.pkg=sun.io
+  - file.separator=/
+  - java.awt.graphicsenv=sun.awt.X11GraphicsEnvironment
+  - java.awt.printerjob=sun.print.PSPrinterJob
+  - java.class.path=/opt/sonar-runner/lib/sonar-runner-dist-2.4.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=/usr/lib/jvm/java-8-oracle/jre/lib/endorsed
+  - java.ext.dirs=/usr/lib/jvm/java-8-oracle/jre/lib/ext:/usr/java/packages/lib/ext
+  - java.home=/usr/lib/jvm/java-8-oracle/jre
+  - java.io.tmpdir=/tmp
+  - java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_131-b11
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_131
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.131-b11
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Linux
+  - os.version=4.10.0-21-generic
+  - path.separator=:
+  - project.home=/home/pivetta/arquitetura/produtos
+  - runner.home=/opt/sonar-runner
+  - sun.arch.data.model=64
+  - sun.boot.class.path=/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes
+  - sun.boot.library.path=/usr/lib/jvm/java-8-oracle/jre/lib/amd64
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=
+  - sun.desktop=gnome
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonar.runner.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=UTF-8
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=unknown
+  - user.country=BR
+  - user.dir=/home/pivetta/arquitetura/produtos
+  - user.home=/home/pivetta
+  - user.language=pt
+  - user.name=pivetta
+  - user.timezone=America/Sao_Paulo
+SonarQube plugins:
+  - C# 5.0 (csharp)
+  - Java 3.13.1 (java)
+  - SVN 1.3 (scmsvn)
+  - Git 1.2 (scmgit)
+  - JavaScript 2.11 (javascript)
+Global properties:
+  - sonar.core.id=20170517144933
+  - sonar.core.startTime=2017-05-17T14:49:33-0300
+  - sonar.core.version=5.6.6
+  - sonar.permission.template.default=default_template
+  - sonar.qualitygate=1
+Settings for module: produtos
+  - sonar.host.url=http://localhost:9000/sonar
+  - sonar.jdbc.password=******
+  - sonar.jdbc.url=jdbc:mysql://localhost:3306/sonar?useUnicode=true&amp;characterEncoding=utf8
+  - sonar.jdbc.username=sonar
+  - sonar.language=java
+  - sonar.projectBaseDir=/home/pivetta/arquitetura/produtos/.
+  - sonar.projectKey=produtos
+  - sonar.projectName=produtos
+  - sonar.projectVersion=0.1
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=src
+  - sonar.verbose=true
+  - sonar.working.directory=/home/pivetta/arquitetura/produtos/./.sonar
